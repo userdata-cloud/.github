@@ -1,0 +1,3 @@
+Revision: 2026-11-12-mark
+Note: Tilted record card (teal, paper record lines + seal dot) dropping into the slit of an ink drop box; first-pass org mark.
+Source: SVGs drawn by hand for userdata-cloud org bootstrap (no external source file). Glyph, mark (paper tile), and mono (currentColor) share geometry; PNG previews at 32/48/128 rendered with ImageMagick.
