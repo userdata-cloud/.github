@@ -1,0 +1,15 @@
+= Changelog
+
+== 2026-11-20
+
+=== Docs template pointer
+
+* Record the suggested default docs template from dev-centr/agent-rules. The choice is a URL in this repo, not a pasted copy of the template.
+
+== 2026-11-12
+
+=== docs add the public organization profile and mark
+
+* docs: add the public organization profile and mark
+* docs: keep the agent-rules pointer in the organization profile repo
+
